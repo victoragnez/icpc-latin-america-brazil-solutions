@@ -42,7 +42,7 @@ Solutions of previous ACM-ICPC Latin American Regionals and ACM-ICPC Brazil Subr
 | A  | Ad-hoc  |
 | B  | Graphs  |
 | C  | Combinatorics  |
-| D  | Greedy + Geometry  |
+| D  | Greedy + basic geometry  |
 | E  | Persistent Segment Tree  |
 | F  | Ad-hoc  |
 | G  | KMP algorithm  |
