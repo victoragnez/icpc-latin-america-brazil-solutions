@@ -1,6 +1,6 @@
 # ICPC Latin American Regionals and Brazil Subregionals Solutions
 
-Solutions of previous ACM-ICPC Latin American Regionals and ACM-ICPC Brazil Subregional Contests (a.k.a. Maratona de Programação).
+Solutions of previous ACM-ICPC Latin American Regionals and ACM-ICPC Brazil Subregionals Contests (a.k.a. Maratona de Programação).
 
 ## 2018 ICPC Brazil Subregional
 | Problem  | Contents |
