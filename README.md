@@ -35,3 +35,18 @@ Solutions of previous ACM-ICPC South America/Brazil Finals and ACM-ICPC Brazil S
 | K  | Maximum Bipartite Matching  |
 | L  | Greedy  |
 | M  | Suffix Array  |
+
+## 2016 ICPC Latin American Regional
+| Problem  | Contents |
+| --- | --- |
+| A  | Ad-hoc  |
+| B  | Graphs  |
+| C  | Combinatorics  |
+| D  | Greedy + Geometry  |
+| E  | Persistent Segment Tree  |
+| F  | Ad-hoc  |
+| G  | KMP algorithm  |
+| H  | Basic data structures  |
+| I  | Dynamic Programming using Knuth Optimization  |
+| J  | Basic number theory  |
+| K  | Maximum Flow  |
