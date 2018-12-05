@@ -2,7 +2,6 @@
 using namespace std;
 
 const int MAXN = 1e6 + 1;
-const int MAGIC = 5e6;
 int n, t, a, ac, x, y;
 int first[MAXN], vet[30];
 
