@@ -1,6 +1,6 @@
-# ICPC Latin America Regionals and Brazil Subregionals Solutions
+# ICPC Latin American Regionals and Brazil Subregionals Solutions
 
-Solutions of previous ACM-ICPC South America/Brazil Finals and ACM-ICPC Brazil Subregional Contests (a.k.a. Maratona de Programação).
+Solutions of previous ACM-ICPC Latin American Regionals and ACM-ICPC Brazil Subregionals Contests (a.k.a. Maratona de Programação).
 
 ## 2018 ICPC Brazil Subregional
 | Problem  | Contents |
@@ -35,3 +35,18 @@ Solutions of previous ACM-ICPC South America/Brazil Finals and ACM-ICPC Brazil S
 | K  | Maximum Bipartite Matching  |
 | L  | Greedy  |
 | M  | Suffix Array  |
+
+## 2016 ICPC Latin American Regional
+| Problem  | Contents |
+| --- | --- |
+| A  | Ad-hoc  |
+| B  | Graphs  |
+| C  | Combinatorics  |
+| D  | Greedy + basic geometry  |
+| E  | Persistent Segment Tree  |
+| F  | Ad-hoc  |
+| G  | KMP algorithm  |
+| H  | Basic data structures  |
+| I  | Dynamic Programming using Knuth Optimization  |
+| J  | Basic number theory  |
+| K  | Maximum Flow  |
