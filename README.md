@@ -36,6 +36,23 @@ Solutions of previous ACM-ICPC Latin American Regionals and ACM-ICPC Brazil Subr
 | L  | Greedy  |
 | M  | Suffix Array  |
 
+## 2017 ICPC Brazil Subregional
+| Problem  | Contents |
+| --- | --- |
+| A  | Segment Tree + Lazy Propagation  |
+| B  | Ad-hoc  |
+| C  | Basic number theory  |
+| D  | Basic number theory  |
+| E  | Ad-hoc  |
+| F  | Ad-hoc  |
+| G  | Dynamic Programming  |
+| H  | Dynamic Programming + basic geometry  |
+| I  | Graphs  |
+| J  | Ad-hoc  |
+| K  | Math + fast matrix exponentiation  |
+| L  | Fast Fourier Transform  |
+| M  | Ad-hoc  |
+
 ## 2016 ICPC Latin American Regional
 | Problem  | Contents |
 | --- | --- |
