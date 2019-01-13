@@ -67,3 +67,20 @@ Solutions of previous ACM-ICPC Latin American Regionals and ACM-ICPC Brazil Subr
 | I  | Dynamic Programming using Knuth Optimization  |
 | J  | Basic number theory  |
 | K  | Maximum Flow  |
+
+## 2016 ICPC Brazil Subregional
+| Problem  | Contents |
+| --- | --- |
+| A  | Ad-hoc  |
+| B  | Persistent Segment Tree  |
+| C  | Dijkstra  |
+| D  | Basic math  |
+| E  | Dynamic Programming  |
+| F  | Graphs  |
+| G  | Dynamic Programming   |
+| H  | Ad-hoc  |
+| I  | Ad-hoc  |
+| J  | Convex hull trick  |
+| K  | Geometry + Dynamic Programming  |
+| L  | Flood fill  |
+
