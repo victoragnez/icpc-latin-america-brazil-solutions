@@ -2,6 +2,23 @@
 
 Solutions of previous ACM-ICPC Latin American Regionals and ACM-ICPC Brazil Subregionals Contests (a.k.a. Maratona de Programação).
 
+## 2018 ICPC Latin American Regional
+| Problem  | Contents |
+| --- | --- |
+| A  | Basic math  |
+| B  | Two pointers  |
+| C  | Dyamic Programming  |
+| D  | Ad-hoc  |
+| E  | Two pointers + Geometry  |
+| F  | Chinese Remainder Theorem + Big Integer  |
+| G  | Combinatorics  |
+| H  | Dijkstra Algorithm  |
+| I  | Graph traversal + Greedy  |
+| J  | Ad-hoc  |
+| K  | Backtracking  |
+| L  | Sieve of Eratosthenes + Fenwick Tree  |
+| M  | Ad-hoc  |
+
 ## 2018 ICPC Brazil Subregional
 | Problem  | Contents |
 | --- | --- |
@@ -12,10 +29,10 @@ Solutions of previous ACM-ICPC Latin American Regionals and ACM-ICPC Brazil Subr
 | E  | Ad-hoc  |
 | F  | Dynamic Programming  |
 | G  | Maximum Flow  |
-| H  | Heavy-Light Decomposition + Segment tree + KMP  |
+| H  | Heavy-Light Decomposition + Segment Tree + KMP  |
 | I  | Ad-hoc  |
 | J  | Steiner Tree Problem  |
-| K  | Basic geometry + graph traversal |
+| K  | Basic geometry + Graph traversal |
 | L  | Lowest Common Ancestor  |
 | M  | Gaussian Elimination modulo 2  |
 
@@ -46,10 +63,10 @@ Solutions of previous ACM-ICPC Latin American Regionals and ACM-ICPC Brazil Subr
 | E  | Ad-hoc  |
 | F  | Ad-hoc  |
 | G  | Dynamic Programming  |
-| H  | Dynamic Programming + basic geometry  |
+| H  | Dynamic Programming + Basic geometry  |
 | I  | Graphs  |
 | J  | Ad-hoc  |
-| K  | Math + fast matrix exponentiation  |
+| K  | Math + Fast matrix exponentiation  |
 | L  | Fast Fourier Transform  |
 | M  | Ad-hoc  |
 
@@ -59,7 +76,7 @@ Solutions of previous ACM-ICPC Latin American Regionals and ACM-ICPC Brazil Subr
 | A  | Ad-hoc  |
 | B  | Graphs  |
 | C  | Combinatorics  |
-| D  | Greedy + basic geometry  |
+| D  | Greedy + Basic geometry  |
 | E  | Persistent Segment Tree  |
 | F  | Ad-hoc  |
 | G  | KMP algorithm  |
@@ -73,7 +90,7 @@ Solutions of previous ACM-ICPC Latin American Regionals and ACM-ICPC Brazil Subr
 | --- | --- |
 | A  | Ad-hoc  |
 | B  | Persistent Segment Tree  |
-| C  | Dijkstra  |
+| C  | Dijkstra Algorithm  |
 | D  | Basic math  |
 | E  | Dynamic Programming  |
 | F  | Graphs  |
