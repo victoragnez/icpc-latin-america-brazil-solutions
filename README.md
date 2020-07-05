@@ -101,3 +101,19 @@ Solutions of previous ACM-ICPC Latin American Regionals and ACM-ICPC Brazil Subr
 | K  | Geometry + Dynamic Programming  |
 | L  | Flood fill  |
 
+## 2015 ICPC Brazil Subregional
+| Problem  | Contents |
+| --- | --- |
+| A  | Dijkstra Algorithm  |
+| B  | Greedy  |
+| C  | Ad-hoc  |
+| D  | Constructive  |
+| E  | Binary search  |
+| F  | Basic math  |
+| G  | Dynamic Programming  |
+| H  | Basic geometry  |
+| I  | Two pointers + bitmask  |
+| J  | Ad-hoc  |
+| K  | Dynamic Programming  |
+| L  | Linear independence modulo 2  |
+
