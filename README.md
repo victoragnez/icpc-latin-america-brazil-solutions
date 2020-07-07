@@ -101,6 +101,21 @@ Solutions of previous ACM-ICPC Latin American Regional Contests and ACM-ICPC Bra
 | K | Kit de encolhimento de polígonos | Geometry + Dynamic Programming |
 | L | Ladrilhos | Flood fill |
 
+## 2015 ICPC Latin American Regional
+| ID | Problem | Contents |
+| --- | --- | --- |
+| A | At most twice | Ad-hoc |
+| B | Blood groups | Maximum Flow |
+| C | Cake cut | Two pointers + Geometry |
+| D | D as in Daedalus | Ad-hoc |
+| E | Exposing Corruption | Graph traversal + Dynamic Programming |
+| F | Fence the vegetables fail | Sweep line + Fenwick Tree |
+| G | Galaxy taxes | Ternary Search + Dijkstra Algorithm |
+| H | Height map | Ad-hoc |
+| I | Identifying tea | Ad-hoc |
+| J | Just a bit sorted | Combinatorics |
+| K | Keep it energized | Dynamic Programming + Fenwick Tree |
+
 ## 2015 ICPC Brazil Subregional
 | ID | Problem | Contents |
 | --- | --- | --- |
